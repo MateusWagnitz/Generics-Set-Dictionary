@@ -1,0 +1,13 @@
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Equals-GetHashCode\bin\Debug\netcoreapp3.1\Equals-GetHashCode.exe
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Equals-GetHashCode\bin\Debug\netcoreapp3.1\Equals-GetHashCode.deps.json
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Equals-GetHashCode\bin\Debug\netcoreapp3.1\Equals-GetHashCode.runtimeconfig.json
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Equals-GetHashCode\bin\Debug\netcoreapp3.1\Equals-GetHashCode.runtimeconfig.dev.json
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Equals-GetHashCode\bin\Debug\netcoreapp3.1\Equals-GetHashCode.dll
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Equals-GetHashCode\bin\Debug\netcoreapp3.1\Equals-GetHashCode.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Equals-GetHashCode\obj\Debug\netcoreapp3.1\Equals-GetHashCode.csprojAssemblyReference.cache
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Equals-GetHashCode\obj\Debug\netcoreapp3.1\Equals-GetHashCode.AssemblyInfoInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Equals-GetHashCode\obj\Debug\netcoreapp3.1\Equals-GetHashCode.AssemblyInfo.cs
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Equals-GetHashCode\obj\Debug\netcoreapp3.1\Equals-GetHashCode.csproj.CoreCompileInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Equals-GetHashCode\obj\Debug\netcoreapp3.1\Equals-GetHashCode.dll
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Equals-GetHashCode\obj\Debug\netcoreapp3.1\Equals-GetHashCode.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Equals-GetHashCode\obj\Debug\netcoreapp3.1\Equals-GetHashCode.genruntimeconfig.cache

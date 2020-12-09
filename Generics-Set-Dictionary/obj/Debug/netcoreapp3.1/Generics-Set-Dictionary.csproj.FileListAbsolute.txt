@@ -1,0 +1,4 @@
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generics-Set-Dictionary\obj\Debug\netcoreapp3.1\Generics-Set-Dictionary.csprojAssemblyReference.cache
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generics-Set-Dictionary\obj\Debug\netcoreapp3.1\Generics-Set-Dictionary.AssemblyInfoInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generics-Set-Dictionary\obj\Debug\netcoreapp3.1\Generics-Set-Dictionary.AssemblyInfo.cs
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generics-Set-Dictionary\obj\Debug\netcoreapp3.1\Generics-Set-Dictionary.csproj.CoreCompileInputs.cache

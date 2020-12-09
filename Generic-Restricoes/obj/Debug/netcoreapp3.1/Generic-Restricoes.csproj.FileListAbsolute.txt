@@ -1,0 +1,13 @@
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generic-Restricoes\obj\Debug\netcoreapp3.1\Generic-Restricoes.csprojAssemblyReference.cache
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generic-Restricoes\obj\Debug\netcoreapp3.1\Generic-Restricoes.AssemblyInfoInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generic-Restricoes\obj\Debug\netcoreapp3.1\Generic-Restricoes.AssemblyInfo.cs
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generic-Restricoes\obj\Debug\netcoreapp3.1\Generic-Restricoes.csproj.CoreCompileInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generic-Restricoes\bin\Debug\netcoreapp3.1\Generic-Restricoes.exe
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generic-Restricoes\bin\Debug\netcoreapp3.1\Generic-Restricoes.deps.json
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generic-Restricoes\bin\Debug\netcoreapp3.1\Generic-Restricoes.runtimeconfig.json
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generic-Restricoes\bin\Debug\netcoreapp3.1\Generic-Restricoes.runtimeconfig.dev.json
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generic-Restricoes\bin\Debug\netcoreapp3.1\Generic-Restricoes.dll
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generic-Restricoes\bin\Debug\netcoreapp3.1\Generic-Restricoes.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generic-Restricoes\obj\Debug\netcoreapp3.1\Generic-Restricoes.dll
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generic-Restricoes\obj\Debug\netcoreapp3.1\Generic-Restricoes.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\Generic-Restricoes\obj\Debug\netcoreapp3.1\Generic-Restricoes.genruntimeconfig.cache

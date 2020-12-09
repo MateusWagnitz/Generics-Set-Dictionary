@@ -1,0 +1,13 @@
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\SortedSet-HashSet\bin\Debug\netcoreapp3.1\SortedSet-HashSet.exe
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\SortedSet-HashSet\bin\Debug\netcoreapp3.1\SortedSet-HashSet.deps.json
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\SortedSet-HashSet\bin\Debug\netcoreapp3.1\SortedSet-HashSet.runtimeconfig.json
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\SortedSet-HashSet\bin\Debug\netcoreapp3.1\SortedSet-HashSet.runtimeconfig.dev.json
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\SortedSet-HashSet\bin\Debug\netcoreapp3.1\SortedSet-HashSet.dll
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\SortedSet-HashSet\bin\Debug\netcoreapp3.1\SortedSet-HashSet.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\SortedSet-HashSet\obj\Debug\netcoreapp3.1\SortedSet-HashSet.csprojAssemblyReference.cache
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\SortedSet-HashSet\obj\Debug\netcoreapp3.1\SortedSet-HashSet.AssemblyInfoInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\SortedSet-HashSet\obj\Debug\netcoreapp3.1\SortedSet-HashSet.AssemblyInfo.cs
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\SortedSet-HashSet\obj\Debug\netcoreapp3.1\SortedSet-HashSet.csproj.CoreCompileInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\SortedSet-HashSet\obj\Debug\netcoreapp3.1\SortedSet-HashSet.dll
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\SortedSet-HashSet\obj\Debug\netcoreapp3.1\SortedSet-HashSet.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\15 - Generics, Set, Dictionary\Generics-Set-Dictionary\SortedSet-HashSet\obj\Debug\netcoreapp3.1\SortedSet-HashSet.genruntimeconfig.cache
